@@ -1,1 +1,1 @@
-![Image]("gmail_system_design.png")
+![Image](https://github.com/Amankarki87/System-design/blob/main/gmail_system_design/gmail_system_design.png)
