@@ -1,0 +1,1 @@
+![Image](https://github.com/Amankarki87/System-design/blob/main/rate_limiting/rate_limiting.png)
